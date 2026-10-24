@@ -1,0 +1,5 @@
+Katterums jaktlag v2.5.0 FIX
+- Korrigerar gammal 2.2.7 versionsmarkör i app.js till 2.5.0.
+- Ny cache-nyckel i sw.js.
+- Nya cache-busting parametrar v=2501 för app.js, cloud.js och style.css.
+- Övriga 2.5.0-filer och masterdata lämnas oförändrade.
